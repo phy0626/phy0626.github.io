@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-[111](https://www.bilibili.com)
+[bilibili](https://www.bilibili.com)
+[百度](https://baidu.com)
+[deepseek](https://www.deepseek.com/)
 
 ```
